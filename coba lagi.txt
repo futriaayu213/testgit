@@ -1,6 +1,11 @@
 dddddddd
 aaaaaaaaa
+<<<<<<< HEAD
 aaaa
 
 aaaaaaaaaaaaaaaaaaaaaaaaaaaa
 aaaaaaaaa
+=======
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+cb dari atom 2
+>>>>>>> a691811a6802607e337ccd6868fd00e3fe43b32c
